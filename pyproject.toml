@@ -1,6 +1,6 @@
 [project]
 name = "dayutil"
-version = "0.0.6"
+version = "0.0.6a"
 
 [build-system]
 requires = ["setuptools>=61.0"]
