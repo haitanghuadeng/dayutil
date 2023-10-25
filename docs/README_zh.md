@@ -16,13 +16,13 @@
 
 ## 安装
 
-> ``` shell
-> pip install dayutil
-> ```
-> 或
-> ``` shell
-> pip3 install dayutil
-> ```
+``` shell
+pip install dayutil
+```
+
+``` shell
+pip3 install dayutil
+```
 
 ## 开源许可
 

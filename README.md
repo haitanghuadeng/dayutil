@@ -16,13 +16,13 @@
 
 ## Installation
 
-> ``` shell
-> pip install dayutil
-> ```
-> Or
-> ``` shell
-> pip3 install dayutil
-> ```
+``` shell
+pip install dayutil
+```
+
+``` shell
+pip3 install dayutil
+```
 
 ## License
 
