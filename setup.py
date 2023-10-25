@@ -8,7 +8,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="dayutil",
-    version="0.0.1",
+    version="0.0.4",
     author="haitanghuadeng",
     author_email="491609917@qq.com",
     description="See Day.js for Python's time-handling library",
