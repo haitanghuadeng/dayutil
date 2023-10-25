@@ -4,7 +4,7 @@
 from datetime import datetime, timedelta
 
 
-class DayPy:
+class Day:
     def __init__(self, date=None):
         if not date:
             self.date = datetime.now()
